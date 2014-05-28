@@ -1,0 +1,2 @@
+# Variables available: {USERNAME}, {MESSAGE}
+style: '<{USERNAME}> {MESSAGE}'
